@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "p7QcTcQNchM=",
+  "success": true,
+  "projectFilePath": "/Users/artemglavatskikh/RiderProjects/BIVT-25-Lab-10/Lab10/Lab10.csproj",
+  "expectedPackageFiles": [
+    "/Users/artemglavatskikh/.nuget/packages/microsoft.netcore.app.ref/8.0.20/microsoft.netcore.app.ref.8.0.20.nupkg.sha512",
+    "/Users/artemglavatskikh/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.20/microsoft.aspnetcore.app.ref.8.0.20.nupkg.sha512",
+    "/Users/artemglavatskikh/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.20/microsoft.netcore.app.host.osx-arm64.8.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
